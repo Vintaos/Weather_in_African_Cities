@@ -42,5 +42,3 @@ WhatsApp Web must be open and logged in for the message to send.
 For more details or customization, edit the script as needed.
 License
 MIT License
-
-# Weather_in_African_Cities
