@@ -5,11 +5,11 @@ import time
 import pywhatkit
 
 # --- CONFIGURATION ---
-api_key = "a12c68e26d08a83f6c186d7c38c6ee56"  # Replace with your OpenWeatherMap API key
-repo_path = r"C:\Users\Finance Trainee\Documents\GitHub\Weather_in_African_Cities" # Replace with your local repo path
+api_key = "enter (create) secret key"  # Replace with your OpenWeatherMap API key
+repo_path = r"enter you cloned github file directory path here" # Replace with your local repo path
 csv_filename = "world_capitals_weather.csv"
 csv_path = os.path.join(repo_path, csv_filename)
-group_id = "FATKNmEsC5iGhjbSlpisA0"
+group_id = "enter your group code here"
 message = """Thank you for running my code. I look forward to know how you used it in your works. Write to me through: vaaketch@gmail.com"""
 
 # --- READ COUNTRY DATA FROM CSV ---
